@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shurito777
-- 👀 I’m interested in programing (C#)
+- 👀 I’m interested in programing (C#) && Cyber Security
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on everything related to programing
 - 📫 How to reach me shurito7@gmail.com
